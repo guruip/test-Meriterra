@@ -10,7 +10,7 @@ class ArrangeBox {
     testControlsElement;
 
     boxLeftState;
-    boxRighState;
+    boxRightState;
 
     sourceState = {
         availableItems: [],
